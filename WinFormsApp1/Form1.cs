@@ -17,5 +17,10 @@ namespace WinFormsApp1
             InitializeComponent();
         }
 
+        public  void testc()
+        {
+
+        }
+
     }
 }
