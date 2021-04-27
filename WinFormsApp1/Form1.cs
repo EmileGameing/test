@@ -19,7 +19,7 @@ namespace WinFormsApp1
 
         public  void testc()
         {
-
+            string a = "abc";
         }
 
     }
